@@ -229,7 +229,13 @@ Future versions of this project can include:
 - 🧠 Machine Learning Models
 - 📱 Mobile Application
 - ☁ Cloud-based Deployment
+---
 
+# 🌆 Project Identity
+
+<p align="center">
+<img src="assets/logo.jpeg" width="250">
+</p>
 
 ## 👨‍💻 Author
 
@@ -240,3 +246,4 @@ IT Student | UIET, Panjab University
 Aspiring Data Analyst | Python | NumPy | SQL | Power BI
 
 ⭐ If you found this project useful, consider giving it a star!
+
