@@ -130,7 +130,8 @@ Chandigarh-Smart-City-Digital-Twin
 ### 🏙 Integrated Smart City Dashboard
 
 ![Integrated Smart City Dashboard](screenshots/AI%20Dashboard.jpeg)
-![dashboard](screenshots/dashboard.jpeg)
+
+![dashboard](screenshots/dashboard.png)
 ---
 
 ### 🚗 Traffic Analysis
