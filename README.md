@@ -18,7 +18,7 @@ A data-driven Smart City simulation that analyzes traffic, parking, flood risk, 
 
 
 ## 📸 Project Preview
-![Dashboard](screenshots/dashboard.png)
+![Integrated Smart City Dashboard](screenshots/AI%20Dashboard.jpeg)
 ## 📖 Project Overview
 
 The **Chandigarh Smart City Digital Twin** is an intelligent urban analytics platform developed using **Python**, **NumPy**, and **Matplotlib**. It simulates multiple smart city services such as traffic management, parking optimization, flood monitoring, WiFi coverage, EV charging infrastructure, emergency response, and an integrated decision engine.
@@ -126,12 +126,11 @@ Chandigarh-Smart-City-Digital-Twin
 
 
 ## 📸 Dashboard Screenshots
-## 📸 Dashboard Screenshots
 
 ### 🏙 Integrated Smart City Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
+![Integrated Smart City Dashboard](screenshots/AI%20Dashboard.jpeg)
+![dashboard](screenshots/dashboard.jpeg)
 ---
 
 ### 🚗 Traffic Analysis
