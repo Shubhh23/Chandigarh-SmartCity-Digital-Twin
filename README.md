@@ -126,24 +126,53 @@ Chandigarh-Smart-City-Digital-Twin
 
 
 ## 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
 ### 🏙 Integrated Smart City Dashboard
 
-> *(Dashboard screenshots will be added soon.)*
+![Dashboard](screenshots/dashboard.png)
+
+---
 
 ### 🚗 Traffic Analysis
 
+![Traffic](screenshots/traffic.png)
+
+---
+
 ### 🅿 Parking Analysis
+
+![Parking](screenshots/parking.png)
+
+---
 
 ### 🌧 Flood Risk Analysis
 
+![Flood](screenshots/flood.png)
+
+---
+
 ### 📡 WiFi Coverage Analysis
+
+![WiFi](screenshots/wifi.png)
+
+---
 
 ### ⚡ EV Charging Analysis
 
+![EV](screenshots/ev.png)
+
+---
+
 ### 🚑 Emergency Response Analysis
 
+![Emergency](screenshots/emergency.png)
+
+---
+
 ### 🧠 Smart Decision Engine
+
+![Decision Engine](screenshots/decision_engine.png)
 
 
 
