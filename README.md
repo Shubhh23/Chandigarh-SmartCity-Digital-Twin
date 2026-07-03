@@ -1,4 +1,5 @@
 # 🏙 Chandigarh Smart City Digital Twin
+![Banner](assets/banner.jpeg)
 
 ### Intelligent Urban Analytics using Python & NumPy
 
@@ -49,7 +50,15 @@ The project demonstrates how numerical computing and data analytics can be used 
 
 ## 🏗 Project Architecture
 
-```text
+The Smart City Digital Twin integrates multiple urban analytics modules to monitor city operations, generate insights, and support intelligent decision-making.
+
+<h2 align="center">🏗 Project Architecture</h2>
+
+<p align="center">
+  <img src="assets/arch.jpeg" width="900">
+</p>
+
+```Text
                         Chandigarh Smart City
 
                                │
@@ -77,6 +86,13 @@ The project demonstrates how numerical computing and data analytics can be used 
 ```
 
 ## 🔄 Project Workflow
+The project follows a complete analytics workflow from data collection to visualization and smart recommendations.
+
+<h2 align="center">🏗 Project Architecture</h2>
+
+<p align="center">
+  <img src="assets/workflow.jpeg" width="900">
+</p>
 
 ```text
 Input Data
